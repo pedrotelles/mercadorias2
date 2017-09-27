@@ -1,5 +1,4 @@
 flask
-flask-mail
 sqlalchemy
 flask-sqlalchemy
 sqlalchemy-migrate
